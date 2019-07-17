@@ -1,0 +1,2 @@
+exon_gc,exon_phastCons20way,genebody_gc,genebody_LINE,genebody_LTR,genebody_Satellite,genebody_SINE,host_miRNAs,intron_gc,intron_phastCons20way,micropeptide_aa_avg,TSS1k_gc,TSS1k_LINE,TSS1k_LTR,TSS1k_phastCons20way,TSS1k_Satellite,TSS1k_SINE,TSS5k_gc
+0.005,0.015,0.005,143.092,48.837,0.392,125.002,0.032,0.027,0.009,395.256,0.006,0.599,0.732,0.011,0.029,0.767,0.004
